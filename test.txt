@@ -2,3 +2,6 @@ test task
 adding words to update
 check 1
 check 2
+
+changes for pull
+check 1
