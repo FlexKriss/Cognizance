@@ -1,0 +1,13 @@
+#Checking if a number is divisible by 3:
+
+input(n)
+while n > 0:
+	n = n-3
+while n < 0:
+ 	n = n+3
+return(n)
+
+if n==0:
+	output("Number divisible by 3")
+else:
+	output("Number not divisible by 3")

@@ -1,0 +1,23 @@
+#To find Nth number in Fibonacci series
+
+input(n)
+
+a = 0
+b = 1
+i = 0
+
+while n < i:
+	temp = a + b
+	a = b
+	b = temp
+	i = i+1
+	return(a)
+
+output(a)
+
+//Variables:
+ a - number in Fibonacci series
+ b - number in Fibonacci series
+ i - variable to run loop
+ n - limiting variable
+ temp - temporary variable to store value
