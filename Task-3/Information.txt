@@ -1,6 +1,6 @@
 Idea/ Topic:
 
-Concept 1: (Made with Figma)
+Concept - 1: (Made with Figma)
 
 The Bee Game
 An online multiplayer browser game
