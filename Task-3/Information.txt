@@ -1,0 +1,27 @@
+Idea/ Topic:
+
+Concept 1: (Made with Figma)
+
+The Bee Game
+An online multiplayer browser game
+
+--------------------------------
+
+The bee game is an online co-op multiplayer game, where you and your fellow friends play as bees, 
+trying to collect as much nectar as possible from a flower, While the enemy team tries to do the same.
+Staying on top of a flower gives you nectar points.
+If both teams are on top of the same flower, it becomes contested and neither of the teams get points till they drive the other team out.
+First to fill up the bar /Most points when the time gets over wins.
+
+Different types of bees have different abilities and different gameplay.
+
+--------------------------------
+
+Concept - 2: (Made with Adobe XD)
+
+Gamepit.com
+
+A game library/engine that lets you download games 
+through torrent, with amazing offers and deals.
+
+--------------------------------
